@@ -1,5 +1,5 @@
 # CSC-226
-Large coding assignments tied to CSC 226 at the University of Victoria.
+Large coding assignment tied to CSC 226 at the University of Victoria.
 
 
 ## Flight Allocation Problem 
